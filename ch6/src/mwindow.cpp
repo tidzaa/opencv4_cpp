@@ -37,7 +37,7 @@ MWindow::MWindow(string windowTitle, int rows, int cols, int height, int width, 
 
 int MWindow::addImage(string title, Mat img, bool render){
     /*
-    @description  : add title and image into canvas
+    @description : add title and image into canvas
     @param  : 
         title : sub image title
         img : image to be added
